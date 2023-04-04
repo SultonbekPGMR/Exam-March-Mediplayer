@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "288205440823",
+    "project_id": "phone-auth-firebase-bd9fe",
+    "storage_bucket": "phone-auth-firebase-bd9fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288205440823:android:90253408cf25771872fcb2",
+        "android_client_info": {
+          "package_name": "com.sultonbek1547.exammarch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288205440823-16mkhv7d8anfi95ol9bi72tm0ho9fkin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmV_vvMMv5uzTrKv2tFt7tSsiVsJK2Ttk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288205440823-16mkhv7d8anfi95ol9bi72tm0ho9fkin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288205440823:android:1b5d75640a0bb2f272fcb2",
+        "android_client_info": {
+          "package_name": "com.sultonbek1547.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288205440823-16mkhv7d8anfi95ol9bi72tm0ho9fkin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmV_vvMMv5uzTrKv2tFt7tSsiVsJK2Ttk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288205440823-16mkhv7d8anfi95ol9bi72tm0ho9fkin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288205440823:android:b2c3db91c4af743072fcb2",
+        "android_client_info": {
+          "package_name": "com.sultonbek1547.phoneauthfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288205440823-9kg22mbvk876fvvfr2ovc8lituaa0vqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sultonbek1547.phoneauthfirebase",
+            "certificate_hash": "85f6b7c0baee6b372d32976bf8177094f2aafe0f"
+          }
+        },
+        {
+          "client_id": "288205440823-16mkhv7d8anfi95ol9bi72tm0ho9fkin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmV_vvMMv5uzTrKv2tFt7tSsiVsJK2Ttk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288205440823-16mkhv7d8anfi95ol9bi72tm0ho9fkin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
